@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/greeting-reactJS/static/css/main.dd7fa2ca.chunk.css",
+    "main.js": "/greeting-reactJS/static/js/main.e0d3d4f7.chunk.js",
+    "main.js.map": "/greeting-reactJS/static/js/main.e0d3d4f7.chunk.js.map",
+    "runtime-main.js": "/greeting-reactJS/static/js/runtime-main.ee1f4e45.js",
+    "runtime-main.js.map": "/greeting-reactJS/static/js/runtime-main.ee1f4e45.js.map",
+    "static/js/2.5281b13a.chunk.js": "/greeting-reactJS/static/js/2.5281b13a.chunk.js",
+    "static/js/2.5281b13a.chunk.js.map": "/greeting-reactJS/static/js/2.5281b13a.chunk.js.map",
+    "index.html": "/greeting-reactJS/index.html",
+    "precache-manifest.52ff5ea943c5fe303abaa33a73d9f34c.js": "/greeting-reactJS/precache-manifest.52ff5ea943c5fe303abaa33a73d9f34c.js",
+    "service-worker.js": "/greeting-reactJS/service-worker.js",
+    "static/css/main.dd7fa2ca.chunk.css.map": "/greeting-reactJS/static/css/main.dd7fa2ca.chunk.css.map",
+    "static/js/2.5281b13a.chunk.js.LICENSE.txt": "/greeting-reactJS/static/js/2.5281b13a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee1f4e45.js",
+    "static/js/2.5281b13a.chunk.js",
+    "static/css/main.dd7fa2ca.chunk.css",
+    "static/js/main.e0d3d4f7.chunk.js"
+  ]
+}
